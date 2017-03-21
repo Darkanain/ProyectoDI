@@ -117,16 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="selectIdioma.Text" xml:space="preserve">
-    <value>Idioma</value>
-  </data>
-  <data name="menuAyuda.Text" xml:space="preserve">
-    <value>Ayuda</value>
-  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="menuSup.Size" type="System.Drawing.Size, System.Drawing">
-    <value>684, 24</value>
-  </data>
   <data name="selectEsp.Size" type="System.Drawing.Size, System.Drawing">
     <value>115, 22</value>
   </data>
@@ -139,11 +130,20 @@
   <data name="selectEng.Text" xml:space="preserve">
     <value>Inglés</value>
   </data>
+  <data name="selectIdioma.Text" xml:space="preserve">
+    <value>Idioma</value>
+  </data>
   <data name="ayudaOnline.Size" type="System.Drawing.Size, System.Drawing">
     <value>144, 22</value>
   </data>
   <data name="ayudaOnline.Text" xml:space="preserve">
     <value>Ayuda online</value>
+  </data>
+  <data name="menuAyuda.Text" xml:space="preserve">
+    <value>Ayuda</value>
+  </data>
+  <data name="menuSup.Size" type="System.Drawing.Size, System.Drawing">
+    <value>684, 24</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="lblNomRest.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">

@@ -117,24 +117,27 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="&gt;&gt;lblNomRest.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;ayudaOnline.Name" xml:space="preserve">
-    <value>ayudaOnline</value>
+  <data name="&gt;&gt;EspañolToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="btnRLol.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom</value>
   </data>
+  <data name="&gt;&gt;btnRLol.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
   <data name="&gt;&gt;MenuStrip1.Parent" xml:space="preserve">
     <value>$this</value>
+  </data>
+  <data name="btnRNormal.Text" xml:space="preserve">
+    <value>RESERVA NORMAL</value>
   </data>
   <data name="&gt;&gt;btnRCS.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;PictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;MenuStrip1.Name" xml:space="preserve">
+    <value>MenuStrip1</value>
   </data>
   <data name="&gt;&gt;btnSalir.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -142,20 +145,29 @@
   <data name="PictureBox1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left, Right</value>
   </data>
-  <data name="&gt;&gt;IdiomaToolStripMenuItem.Name" xml:space="preserve">
-    <value>IdiomaToolStripMenuItem</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="ayudaOnline.Size" type="System.Drawing.Size, System.Drawing">
+    <value>152, 22</value>
+  </data>
+  <data name="&gt;&gt;menuSup.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="lblNomRest.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
   </data>
+  <data name="&gt;&gt;btnRLol.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>fPrincipal</value>
+  </data>
+  <data name="menuSup.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
   </data>
   <data name="btnRCS.Text" xml:space="preserve">
     <value>RESERVA CS:GO</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="btnRCS.Size" type="System.Drawing.Size, System.Drawing">
     <value>170, 100</value>
   </data>
@@ -165,11 +177,11 @@
   <data name="&gt;&gt;menuSup.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
+  <data name="&gt;&gt;AyudaToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="AyudaOnlineToolStripMenuItem.Text" xml:space="preserve">
     <value>Ayuda online</value>
-  </data>
-  <data name="EspañolToolStripMenuItem.Text" xml:space="preserve">
-    <value>Español</value>
   </data>
   <data name="&gt;&gt;IdiomaToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -186,14 +198,14 @@
   <data name="btnRLol.Size" type="System.Drawing.Size, System.Drawing">
     <value>170, 100</value>
   </data>
-  <data name="MenuStrip1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+  <data name="btnSalir.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="lblNomRest.Text" xml:space="preserve">
+    <value>Restaurante "El Rango"</value>
   </data>
   <data name="&gt;&gt;btnRCS.ZOrder" xml:space="preserve">
     <value>1</value>
-  </data>
-  <data name="btnRCS.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom</value>
   </data>
   <data name="&gt;&gt;btnSalir.ZOrder" xml:space="preserve">
     <value>0</value>
@@ -210,14 +222,11 @@
   <data name="PictureBox.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 23</value>
   </data>
-  <data name="InglésToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>115, 22</value>
-  </data>
   <data name="&gt;&gt;PictureBox1.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="btnRNormal.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom</value>
+  <data name="&gt;&gt;ayudaOnline.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;MenuStrip1.ZOrder" xml:space="preserve">
     <value>6</value>
@@ -228,8 +237,8 @@
   <data name="btnSalir.Size" type="System.Drawing.Size, System.Drawing">
     <value>73, 26</value>
   </data>
-  <data name="btnSalir.Location" type="System.Drawing.Point, System.Drawing">
-    <value>587, 285</value>
+  <data name="&gt;&gt;btnRNormal.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="&gt;&gt;btnRCS.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -255,9 +264,6 @@
   <data name="btnRLol.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
   </data>
-  <data name="selectIdioma.Size" type="System.Drawing.Size, System.Drawing">
-    <value>56, 20</value>
-  </data>
   <data name="PictureBox.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
@@ -276,17 +282,14 @@
   <data name="PictureBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>683, 330</value>
   </data>
-  <data name="&gt;&gt;selectIdioma.Name" xml:space="preserve">
-    <value>selectIdioma</value>
-  </data>
   <data name="lblNomRest.Size" type="System.Drawing.Size, System.Drawing">
     <value>538, 54</value>
   </data>
   <data name="&gt;&gt;menuAyuda.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;AyudaToolStripMenuItem.Name" xml:space="preserve">
-    <value>AyudaToolStripMenuItem</value>
+  <data name="btnRCS.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
   </data>
   <data name="IdiomaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>56, 20</value>
@@ -300,18 +303,6 @@
   <data name="AyudaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>53, 20</value>
   </data>
-  <data name="&gt;&gt;EspañolToolStripMenuItem.Name" xml:space="preserve">
-    <value>EspañolToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;MenuStrip1.Name" xml:space="preserve">
-    <value>MenuStrip1</value>
-  </data>
-  <data name="&gt;&gt;btnSalir.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="selectEsp.Size" type="System.Drawing.Size, System.Drawing">
-    <value>152, 22</value>
-  </data>
   <data name="&gt;&gt;btnRNormal.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
@@ -320,6 +311,9 @@
   </data>
   <data name="MenuStrip1.Text" xml:space="preserve">
     <value>MenuStrip1</value>
+  </data>
+  <data name="&gt;&gt;pbFondo.Name" xml:space="preserve">
+    <value>pbFondo</value>
   </data>
   <data name="pbFondo.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -333,8 +327,8 @@
   <data name="&gt;&gt;pbFondo.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;btnRLol.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="EspañolToolStripMenuItem.Text" xml:space="preserve">
+    <value>Español</value>
   </data>
   <data name="&gt;&gt;pbFondo.ZOrder" xml:space="preserve">
     <value>3</value>
@@ -1577,17 +1571,17 @@
         gg==
 </value>
   </data>
-  <data name="&gt;&gt;ayudaOnline.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;ayudaOnline.Name" xml:space="preserve">
+    <value>ayudaOnline</value>
   </data>
-  <data name="&gt;&gt;btnRLol.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="btnSalir.Location" type="System.Drawing.Point, System.Drawing">
+    <value>587, 285</value>
   </data>
   <data name="IdiomaToolStripMenuItem.Text" xml:space="preserve">
     <value>Idioma</value>
   </data>
-  <data name="menuSup.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
+  <data name="selectIdioma.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 20</value>
   </data>
   <data name="btnRNormal.Size" type="System.Drawing.Size, System.Drawing">
     <value>180, 100</value>
@@ -1604,11 +1598,11 @@
   <data name="AyudaOnlineToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>144, 22</value>
   </data>
-  <data name="&gt;&gt;AyudaToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;PictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pbFondo.Name" xml:space="preserve">
-    <value>pbFondo</value>
+  <data name="selectEsp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>152, 22</value>
   </data>
   <data name="&gt;&gt;PictureBox1.Name" xml:space="preserve">
     <value>PictureBox1</value>
@@ -1616,29 +1610,38 @@
   <data name="&gt;&gt;lblNomRest.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="MenuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
   <data name="lblNomRest.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 35.25pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;InglésToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;menuSup.Type" xml:space="preserve">
     <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="&gt;&gt;PictureBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
   <data name="menuAyuda.Size" type="System.Drawing.Size, System.Drawing">
     <value>53, 20</value>
   </data>
-  <data name="&gt;&gt;PictureBox1.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="&gt;&gt;IdiomaToolStripMenuItem.Name" xml:space="preserve">
+    <value>IdiomaToolStripMenuItem</value>
   </data>
   <data name="lblNomRest.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="&gt;&gt;selectIdioma.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;lblNomRest.Name" xml:space="preserve">
+    <value>lblNomRest</value>
   </data>
   <data name="&gt;&gt;selectEng.Name" xml:space="preserve">
     <value>selectEng</value>
   </data>
-  <data name="&gt;&gt;EspañolToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;EspañolToolStripMenuItem.Name" xml:space="preserve">
+    <value>EspañolToolStripMenuItem</value>
   </data>
   <data name="pbFondo.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 23</value>
@@ -1646,17 +1649,17 @@
   <data name="menuSup.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="ayudaOnline.Size" type="System.Drawing.Size, System.Drawing">
-    <value>152, 22</value>
+  <data name="&gt;&gt;AyudaToolStripMenuItem.Name" xml:space="preserve">
+    <value>AyudaToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;pbFondo.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="lblNomRest.Text" xml:space="preserve">
-    <value>Restaurante "El Rango"</value>
+  <data name="MenuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
   </data>
-  <data name="btnSalir.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
+  <data name="&gt;&gt;btnSalir.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="&gt;&gt;btnSalir.Name" xml:space="preserve">
     <value>btnSalir</value>
@@ -1664,8 +1667,8 @@
   <data name="btnSalir.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Right</value>
   </data>
-  <data name="btnRCS.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
+  <data name="InglésToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>115, 22</value>
   </data>
   <data name="&gt;&gt;menuAyuda.Name" xml:space="preserve">
     <value>menuAyuda</value>
@@ -1673,14 +1676,14 @@
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
     <value>684, 341</value>
   </data>
-  <data name="&gt;&gt;InglésToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;lblNomRest.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
     <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="MenuStrip1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
+  <data name="&gt;&gt;selectIdioma.Name" xml:space="preserve">
+    <value>selectIdioma</value>
   </data>
   <data name="&gt;&gt;selectEng.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1691,17 +1694,14 @@
   <data name="&gt;&gt;AyudaOnlineToolStripMenuItem.Name" xml:space="preserve">
     <value>AyudaOnlineToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;btnRNormal.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="&gt;&gt;selectIdioma.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;menuSup.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="btnRNormal.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom</value>
   </data>
-  <data name="&gt;&gt;lblNomRest.Name" xml:space="preserve">
-    <value>lblNomRest</value>
-  </data>
-  <data name="btnRNormal.Text" xml:space="preserve">
-    <value>RESERVA NORMAL</value>
+  <data name="btnRCS.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom</value>
   </data>
   <metadata name="MenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
